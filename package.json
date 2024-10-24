@@ -1,0 +1,16 @@
+{
+  "name": "cypress-regressao-visual",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "backstop test",
+    "visual:approve": "backstop approve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "backstopjs": "^6.2.2"
+  }
+}
